@@ -15,17 +15,21 @@ If you need help, have questions, or want to report an issue, contact us at:
 ## 🛠 App Overview
 
 Bartr helps users:
-- List items they want to trade
-- Discover nearby listings
-- Chat in real time to negotiate exchanges
-- Build trust through profiles and ratings
+- List items they want to trade by uploading images and files
+- Discover nearby listings using location-based search
+- Chat in real time to negotiate and finalize trades
+- Build trust through user profiles and ratings
 
 ---
 
 ## 🔐 Privacy & Safety
 
+Bartr only accesses device features required for core functionality:
+- Photo library and file access for uploading item images and files
+- Location access to show nearby listings
+
 We respect user privacy and data security.  
-For questions related to privacy or data handling, please contact us via the support email above.
+For any privacy-related questions, please contact us via the support email above.
 
 ---
 
